@@ -16,7 +16,23 @@ The project demonstrates a basic machine learning workflow, including explorator
 
 ## Dataset
 
-The project uses the Ecommerce Customers dataset, which contains customer information and usage statistics.
+This project uses the Ecommerce Customers dataset to predict yearly customer spending.
+
+The dataset is not included in this repository because its redistribution license could not be verified.
+
+### Setup
+
+1. Obtain the Ecommerce Customers dataset from its original source.
+2. Verify the dataset's usage terms before downloading or redistributing it.
+3. Place the CSV file in the `data/` directory and name it `ecommerce.csv`.
+
+Expected location:
+
+```text
+data/ecommerce.csv
+```
+
+The notebook requires this file to run. The dataset is not provided in this repository.
 
 ### Features used
 
